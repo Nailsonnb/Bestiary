@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "868801791520",
+    "firebase_url": "https://bestiary-699cb.firebaseio.com",
+    "project_id": "bestiary-699cb",
+    "storage_bucket": "bestiary-699cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868801791520:android:3c2995eedbe55901",
+        "android_client_info": {
+          "package_name": "if1001.android.bestiary3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868801791520-cqme5pquss31algukldircesmemcdud3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "if1001.android.bestiary3",
+            "certificate_hash": "e271e107d8ada635b0dc3d0279d8aa3a0d50c7ae"
+          }
+        },
+        {
+          "client_id": "868801791520-5tbbuuko422r4re9sgkugnbi03n4icv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPwIGnYvifsgkkEIUBOUkTf9MN91Jp9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868801791520-5tbbuuko422r4re9sgkugnbi03n4icv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
